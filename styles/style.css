@@ -1,0 +1,60 @@
+body {
+    background-image: url("../public/assets/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+    list-style: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    color: whitesmoke;
+}
+
+iframe {
+    margin: auto;
+    height: 94vh;
+    width: 100%;
+    border: 3px solid rgb(65, 65, 65);
+    display: block;
+}
+
+
+.rank_buttons {
+    background-color: whitesmoke;
+    opacity: .9;
+    border-radius: 25px 0px 0px 25px;
+}
+
+.ranking {
+    background-color: whitesmoke;
+    opacity: .9;
+    border-radius: 0px 25px 25px 0px;
+}
+
+.score {
+    display: inline-block;
+}
+
+.parcel_wizard {
+    background-color: whitesmoke;
+    opacity: .9;
+    border-radius: 25px;
+    text-align:center;
+}
+
+.parcel_form {
+    text-align:center;
+    background-color: rgb(224, 224, 224);
+    margin: 1%;
+    padding: 2%;
+}
+

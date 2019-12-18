@@ -1,0 +1,5 @@
+start seproject_tables.sql
+start APMP_Parcels_into_parcel.sql
+start populate_ranking.sql
+start APMP_Parcels_into_owner.sql
+start APMP_Parcels_into_watershed.sql
